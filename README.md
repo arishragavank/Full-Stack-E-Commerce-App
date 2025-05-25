@@ -138,7 +138,3 @@ This project is licensed under the MIT License.
 ## 💬 Feedback
 
 Feel free to open issues or submit pull requests. Contributions are welcome!
-
----
-
-If you'd like this tailored to a specific stack like **Next.js + PostgreSQL** or **MERN** specifically, let me know!
